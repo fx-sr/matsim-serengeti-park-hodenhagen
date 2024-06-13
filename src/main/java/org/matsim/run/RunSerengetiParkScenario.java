@@ -58,7 +58,8 @@ public final class RunSerengetiParkScenario {
 	private final static int serengetiParkVehicles = 1000;
 	private final static int serengetiCarparkVehicles = 675;
 	private final static int wasserlandCarparkVehicles = 675;
-	
+
+
 	// Supply
 	// 45 sec per veh --> 3600/45 = 80 veh/h per check-in lane
 	private final static int capacityPerCheckInBooth = 80;
