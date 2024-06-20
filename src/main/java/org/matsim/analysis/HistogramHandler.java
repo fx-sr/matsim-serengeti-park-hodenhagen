@@ -1,11 +1,18 @@
+
 package org.matsim.analysis;
+public class HistogramHandler {
+
+/*
+
+
+
 
 import org.matsim.api.core.v01.events.LinkLeaveEvent;
 import org.matsim.api.core.v01.events.handler.LinkLeaveEventHandler;
 import java.util.HashMap;
 import java.util.Map;
 
-public class HistogramHandler implements LinkLeaveEventHandler {
+
 
 
     private Map<String, Integer> histogram = new HashMap<>();
@@ -35,4 +42,7 @@ public class HistogramHandler implements LinkLeaveEventHandler {
 
     private Object createKey(double time) {
     }
+}
+*/
+
 }
